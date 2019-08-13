@@ -65,8 +65,7 @@ def adding_matz
 #    :languages => ["LISP", "C"]
 # }
 
-	programmer_hash = 
- 		{
+	programmer_hash = {
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
@@ -87,8 +86,7 @@ def adding_matz
 end
 
 def changing_alan
-	programmer_hash = 
- 		{
+	programmer_hash = {
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
@@ -109,8 +107,7 @@ def changing_alan
 end
 
 def adding_to_dennis
-	programmer_hash = 
- 		{
+	programmer_hash = {
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
